@@ -8,4 +8,9 @@ by University of Illinois at Urbana-Champaign
     * Arrays, List, Queue, and Stack
     * MP: Linked Lists and Merge Sort Project
 2. Week 02
-    * ...
+    * Tree Terminology
+    * Binary Trees
+    * Binary Search Trees(BST)
+
+    * No MP this week, just Challenge
+3. Week 03
