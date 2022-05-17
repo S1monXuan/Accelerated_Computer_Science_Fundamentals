@@ -14,3 +14,7 @@ by University of Illinois at Urbana-Champaign
 
     * No MP this week, just Challenge
 3. Week 03
+    * AVL Trees
+    * B-Trees
+
+    * MP: GenericTree and Tree Traversal Project
