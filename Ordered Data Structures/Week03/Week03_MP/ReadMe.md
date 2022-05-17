@@ -4,5 +4,14 @@ templated tree type, and you’ll implement a few small functions that operate o
 
 For more detail, please check tree_traversal_project_instructions
 
+## solution difference
+
+### solution 1
+    Using Vector
+### solution 2
+    Using Queue
+
 # Grades
-Score 100 / 100
+
+* Solution 1: Score 100 / 100
+* Solution 2: Score 100 / 100
