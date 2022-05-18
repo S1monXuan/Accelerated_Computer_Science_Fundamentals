@@ -18,3 +18,7 @@ by University of Illinois at Urbana-Champaign
     * B-Trees
 
     * MP: GenericTree and Tree Traversal Project
+4. Week 04
+    * Heap including Heap Insert, RemoveMin, buildHeap, and Runtime Analysis
+
+    * No MP this week, just Challenge
