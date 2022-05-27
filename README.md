@@ -6,9 +6,8 @@ Repository for Coursera Specification: Accelerated Computer Science Fundamentals
 
 # Done
 * Course 1: Object-Oriented Data Structures in C++
-
-# In Progress
 * Course 2: Ordered Data Structures
 
-# In future
+# In Progress
 * Course 3: Unordered Data Structures
+
